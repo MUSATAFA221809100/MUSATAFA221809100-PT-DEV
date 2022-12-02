@@ -1,0 +1,14 @@
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\bin\Debug\netcoreapp3.1\sayisalloto2.exe
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\bin\Debug\netcoreapp3.1\sayisalloto2.deps.json
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\bin\Debug\netcoreapp3.1\sayisalloto2.runtimeconfig.json
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\bin\Debug\netcoreapp3.1\sayisalloto2.runtimeconfig.dev.json
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\bin\Debug\netcoreapp3.1\sayisalloto2.dll
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\bin\Debug\netcoreapp3.1\sayisalloto2.pdb
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\obj\Debug\netcoreapp3.1\sayisalloto2.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\obj\Debug\netcoreapp3.1\sayisalloto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\obj\Debug\netcoreapp3.1\sayisalloto2.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\obj\Debug\netcoreapp3.1\sayisalloto2.AssemblyInfo.cs
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\obj\Debug\netcoreapp3.1\sayisalloto2.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\obj\Debug\netcoreapp3.1\sayisalloto2.dll
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\obj\Debug\netcoreapp3.1\sayisalloto2.pdb
+C:\Users\musta\source\repos\sayisalloto2\sayisalloto2\obj\Debug\netcoreapp3.1\sayisalloto2.genruntimeconfig.cache
