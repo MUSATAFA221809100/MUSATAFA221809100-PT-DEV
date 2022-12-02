@@ -1,0 +1,14 @@
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\bin\Debug\netcoreapp3.1\sayıdegeri tahmin etme.exe
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\bin\Debug\netcoreapp3.1\sayıdegeri tahmin etme.deps.json
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\bin\Debug\netcoreapp3.1\sayıdegeri tahmin etme.runtimeconfig.json
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\bin\Debug\netcoreapp3.1\sayıdegeri tahmin etme.runtimeconfig.dev.json
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\bin\Debug\netcoreapp3.1\sayıdegeri tahmin etme.dll
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\bin\Debug\netcoreapp3.1\sayıdegeri tahmin etme.pdb
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\obj\Debug\netcoreapp3.1\sayıdegeri tahmin etme.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\obj\Debug\netcoreapp3.1\sayıdegeri tahmin etme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\obj\Debug\netcoreapp3.1\sayıdegeri tahmin etme.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\obj\Debug\netcoreapp3.1\sayıdegeri tahmin etme.AssemblyInfo.cs
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\obj\Debug\netcoreapp3.1\sayıdegeri tahmin etme.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\obj\Debug\netcoreapp3.1\sayıdegeri tahmin etme.dll
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\obj\Debug\netcoreapp3.1\sayıdegeri tahmin etme.pdb
+C:\Users\musta\source\repos\sayıdegeri tahmin etme\sayıdegeri tahmin etme\obj\Debug\netcoreapp3.1\sayıdegeri tahmin etme.genruntimeconfig.cache
