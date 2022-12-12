@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Girilecek_olan__sayı_en_büyük_en_küçük_olanı_ekrana_yazdırma</RootNamespace>
+  </PropertyGroup>
+
+</Project>
