@@ -1,0 +1,14 @@
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\bin\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.exe
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\bin\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.deps.json
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\bin\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.runtimeconfig.json
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\bin\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.runtimeconfig.dev.json
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\bin\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.dll
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\bin\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.pdb
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\obj\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\obj\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\obj\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.AssemblyInfoInputs.cache
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\obj\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.AssemblyInfo.cs
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\obj\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\obj\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.dll
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\obj\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.pdb
+C:\Users\musta\source\repos\sayi-toplama-ortalama-alma\sayi-toplama-ortalama-alma\obj\Debug\netcoreapp3.1\sayi-toplama-ortalama-alma.genruntimeconfig.cache

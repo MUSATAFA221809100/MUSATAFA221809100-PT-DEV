@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "sayi-toplama-ortalama-alma/1.0.0": {
+        "runtime": {
+          "sayi-toplama-ortalama-alma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sayi-toplama-ortalama-alma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

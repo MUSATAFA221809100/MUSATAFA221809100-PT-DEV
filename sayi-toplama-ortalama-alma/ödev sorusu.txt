@@ -1,0 +1,3 @@
+ÖDEV: Öyle bir program yazın ki, önce kullanıcıya kaç adet sayı girmek istediğini sorsun. Daha sonra kullanıcıdan sayı 
+girmesini istesin. Kullanıcı fark etse de etmese de baştan girdiği adet kadar sayı tamamlandığında bu sayıların toplamını 
+ve ortalamasını hesaplayarak ekrana yazsın.
