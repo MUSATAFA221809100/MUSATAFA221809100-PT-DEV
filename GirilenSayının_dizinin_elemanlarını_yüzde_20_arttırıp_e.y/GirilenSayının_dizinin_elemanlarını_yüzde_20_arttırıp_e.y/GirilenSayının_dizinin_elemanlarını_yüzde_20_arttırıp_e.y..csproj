@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>GirilenSayının_dizinin_elemanlarını_yüzde_20_arttırıp_e.y_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
