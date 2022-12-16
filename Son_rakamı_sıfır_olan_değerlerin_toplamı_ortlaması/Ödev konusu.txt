@@ -1,0 +1,1 @@
+son rakamı sıfır olan değerlerin toplamı ve  ortalamasını veren progrman sayfa 84 ödev
