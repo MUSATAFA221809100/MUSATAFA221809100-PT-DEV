@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\LAB2-PC\\source\\repos\\girilen sayıları büyükten küçüğe sıralama\\girilen sayıları büyükten küçüğe sıralama\\girilen sayıları büyükten küçüğe sıralama.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\LAB2-PC\\source\\repos\\girilen sayıları büyükten küçüğe sıralama\\girilen sayıları büyükten küçüğe sıralama\\girilen sayıları büyükten küçüğe sıralama.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\LAB2-PC\\source\\repos\\girilen sayıları büyükten küçüğe sıralama\\girilen sayıları büyükten küçüğe sıralama\\girilen sayıları büyükten küçüğe sıralama.csproj",
+        "projectName": "girilen sayıları büyükten küçüğe sıralama",
+        "projectPath": "C:\\Users\\LAB2-PC\\source\\repos\\girilen sayıları büyükten küçüğe sıralama\\girilen sayıları büyükten küçüğe sıralama\\girilen sayıları büyükten küçüğe sıralama.csproj",
+        "packagesPath": "C:\\Users\\LAB2-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAB2-PC\\source\\repos\\girilen sayıları büyükten küçüğe sıralama\\girilen sayıları büyükten küçüğe sıralama\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LAB2-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

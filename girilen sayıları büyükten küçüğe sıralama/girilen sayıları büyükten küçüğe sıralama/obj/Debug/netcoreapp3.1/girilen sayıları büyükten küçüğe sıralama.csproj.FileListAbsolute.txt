@@ -1,0 +1,14 @@
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\bin\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.exe
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\bin\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.deps.json
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\bin\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.runtimeconfig.json
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\bin\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.runtimeconfig.dev.json
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\bin\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.dll
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\bin\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.pdb
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\obj\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.csproj.AssemblyReference.cache
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\obj\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\obj\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.AssemblyInfoInputs.cache
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\obj\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.AssemblyInfo.cs
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\obj\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.csproj.CoreCompileInputs.cache
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\obj\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.dll
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\obj\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.pdb
+C:\Users\LAB2-PC\source\repos\girilen sayıları büyükten küçüğe sıralama\girilen sayıları büyükten küçüğe sıralama\obj\Debug\netcoreapp3.1\girilen sayıları büyükten küçüğe sıralama.genruntimeconfig.cache
