@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Girilen_Sayıların_Bütün_Beğerlerini_Bulma/1.0.0": {
+        "runtime": {
+          "Girilen_Sayıların_Bütün_Beğerlerini_Bulma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Girilen_Sayıların_Bütün_Beğerlerini_Bulma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
